@@ -1,16 +1,18 @@
-## Hi there 👋
+## welcome, i guess? 🪐
 
-<!--
-**sxtw/sxtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌌 i'm noob in programming, don't know how to code, but i try. hehe... 
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- i know C#, Python, HTML, and maybe something more?
+- trying to make games..
+- i also like modding games.
+
+<br>
+
+### 📊 stats, if someone cares:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sxtw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=date_night&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sxtw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=date_night&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
