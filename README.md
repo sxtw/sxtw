@@ -1,12 +1,11 @@
 ## welcome, i guess? 🪐
 
 🌌 actually i don't know how to code, but i'm trying...
-<br>
+
 - i know C#, GML, Python, and maybe something more?
 - trying to make games..
 - i also like modding games.
-<br>
-
+<br></br>
 ### 📊 my statistics:
 
 <div align="center">
