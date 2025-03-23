@@ -1,10 +1,10 @@
 ## welcome, i guess? 🪐
 
-🌌 actually i don't know how to code, but i'm trying...
+🌌 i'm actually a bad developer, but i'm trying to learn...
 
 - i know **a little bit** C#, GML, Python, and maybe something more?
 - trying to make games..
-- i also like modding games.
+- i'm also trying to mod games.
 <br></br>
 ### 📊 my statistics:
 
