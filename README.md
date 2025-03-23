@@ -2,7 +2,7 @@
 
 🌌 actually i don't know how to code, but i'm trying...
 
-- i know *a little bit* C#, GML, Python, and maybe something more?
+- i know **a little bit** C#, GML, Python, and maybe something more?
 - trying to make games..
 - i also like modding games.
 <br></br>
